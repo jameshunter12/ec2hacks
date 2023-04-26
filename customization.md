@@ -21,7 +21,7 @@
               <p>
                 Student that is interested in entrepreneurship
               </p>
-              <a href="https://github.com/jameshunter12" class="button"></a>
+              <a href='https://github.com/jameshunter12'><button>Link to Github</button></a>
             </div>
           </article>
         </main>

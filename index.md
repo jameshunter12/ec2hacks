@@ -5,6 +5,6 @@
     <p>SNAKE SCORE BELOW</p>
 </div>
 
-<img src="images/snake.png" alt="snake">
+<img src="snake.png" alt="snake" width="400" height="600">
 
 

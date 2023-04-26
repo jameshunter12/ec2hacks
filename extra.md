@@ -9,4 +9,4 @@
 </div>
 
 <p>This element rounds the image</p>
-<img src="mountain.png" class="img-rounded" alt="mountain">
+<img src="mountain.png" class="img-circle" alt="mountain">
