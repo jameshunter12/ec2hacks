@@ -8,5 +8,5 @@
     <p>Add an element of bootstrap to this page (ex. carousel) OR Add an element using Tailwind</p>
 </div>
 
-<p>This element rounds the image</p>
+<p>This element makes the image a circle</p>
 <img src="mountain.png" class="img-circle" alt="mountain">
