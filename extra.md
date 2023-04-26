@@ -21,7 +21,7 @@ img {
 
 <h2>This makes the image a circle</h2>
 
-<img src="mountain.png" alt="mountain" style="width:200px">
+<img src="panda.png" alt="panda" style="width:200px">
 
 </body>
 </html> 
