@@ -8,7 +8,7 @@
 <html>
 <body>
 
-<img src="snake.jpg" alt="snake score" width="500" height="600">
+<img src="score.jpg" alt="snake score" width="500" height="600">
 
 </body>
 </html>

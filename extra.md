@@ -25,7 +25,7 @@
 
   <div class="Containers">
     <div class="MessageInfo">3 / 3</div>
-    <img src="snake.jpg" style="width:100%">
+    <img src="score.jpg" style="width:100%">
     <div class="Info">Third Caption</div>
   </div>
 
