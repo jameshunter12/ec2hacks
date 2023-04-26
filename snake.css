@@ -22,7 +22,7 @@ canvas {
   position: absolute;
 }
 :root {
-  --apple: blue;
+  --apple: rgb(255, 0, 0);
   --snake: purple;
 }
 #p1 {
