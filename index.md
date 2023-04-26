@@ -5,9 +5,9 @@
     <p>SNAKE SCORE BELOW</p>
     <html>
 
-<img src="snake.png" 
-     width="1000" 
-     height="2000" />
+<img src="/Users/jameshunter/Documents/GitHub/ec2hacks/images/snake.png" 
+     width="300" 
+     height="400" />
 
 
 
