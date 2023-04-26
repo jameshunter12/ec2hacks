@@ -6,7 +6,7 @@
           <article class="profile">
             <picture class="profile-img">
               <source srcset="images/snake.png" media="(min-width: 600px)">
-              <img src="images/snake.png" alt="snake">
+              <img src="images/snake.png"  width="200" height="350" alt="snake">
 </div>
 
 
