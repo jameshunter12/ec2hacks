@@ -6,7 +6,7 @@
   <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
 </head>
 <body>
-<p id="p1">(Changed APPLLE COLOR) SCORE:</p>
+<p id="p1">(Changed APPLE COLOR BLUE->RED) SCORE:</p>
 <p id="score"></p>
 <p id="p2">HIGHSCORE:</p>
 <p id="high"></p>
