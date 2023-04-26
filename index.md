@@ -4,25 +4,11 @@
     <p>Hacks for the Lesson on UI and Java
     <p>SNAKE SCORE BELOW</p>
     <html>
-<head>
-<style>
-html, body {
-  height: 100%;
-}
-img.two {
-  height: 150%;
-  width: 150%;
-}
-</style>
-</head>
-<body>
 
-<p>Snake Score:</p>
-<img class="two" src="snake.jpg" width="300" height="300">
+<img src="snake.png" 
+     width="1000" 
+     height="2000" />
 
-</body>
-</html>
-</div>
 
 
 
