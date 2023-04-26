@@ -22,7 +22,7 @@ img {
 
 <h2>Rounded Panda</h2>
 
-<img src="panda.png" alt="Avatar" style="width:200px">
+<img src="images/panda.png" alt="Avatar" style="width:200px">
 
 </body>
 </html> 
