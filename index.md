@@ -3,10 +3,7 @@
     <h1>HACKS</h1>
     <p>Hacks for the Lesson on UI and Java
     <p>SNAKE SCORE BELOW</p>
-        <img src="images/snake.png"  width="200" height="350" alt="snake">
-</div>
-
-<html>
+    <html>
 <head>
 <style>
 html, body {
@@ -25,6 +22,8 @@ img.two {
 
 </body>
 </html>
+</div>
+
 
 
 
