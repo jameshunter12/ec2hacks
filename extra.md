@@ -13,7 +13,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=5">
 <style>
 img {
-  border-radius: 60%;
+  border-radius: 100%;
 }
 </style>
 </head>
