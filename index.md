@@ -10,8 +10,8 @@ html, body {
   height: 100%;
 }
 img.two {
-  height: 50%;
-  width: 50%;
+  height: 150%;
+  width: 150%;
 }
 </style>
 </head>
