@@ -3,8 +3,8 @@
     <h1>HACKS</h1>
     <p>Hacks for the Lesson on UI and Java
     <p>SNAKE SCORE BELOW</p>
+    <img src="snake.png" alt="snake" width="400" height="600">
 </div>
 
-<img src="snake.png" alt="snake" width="400" height="600">
 
 
