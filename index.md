@@ -3,7 +3,7 @@
     <h1>HACKS</h1>
     <p>Hacks for the Lesson on UI and Java
     <p>SNAKE SCORE BELOW</p>
-    <img src="score.jpg" alt="snake score" width="500" height="600">
+    <img src="score.png" alt="snake score" width="500" height="600">
     <html>
 
 
