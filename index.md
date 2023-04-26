@@ -12,15 +12,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=5">
 <style>
 img {
-  border-radius: 100%;
+  border-radius: 0%;
 }
 </style>
 </head>
 <body>
 
-<h2>Rounded Panda</h2>
-
-<img src="images/score.png" alt="Avatar" style="width:500px">
+<img src="images/score.png" alt="Avatar" style="width:400px">
 
 </body>
 </html> 
